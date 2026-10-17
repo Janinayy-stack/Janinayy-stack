@@ -1,4 +1,4 @@
-## Hi, I'm Janine Deliso!👋
+# Hi, I'm Janine Deliso!👋
 
 ## Aspiring Data Analyst | SQL • Power BI • Excel
 
@@ -6,25 +6,25 @@ I'm passionate about transforming raw data into meaningful insights that support
 
 I'm currently working on hands-on projects to strengthen my technical skills, explore real-world datasets, and showcase my approach to data cleaning, analysis, and visualization.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-a. Data Analysis: Microsoft Excel, STATA
-b. Data Processing: Power Query, Power Pivot, PivotTables, VLOOKUP/XLOOKUP
-c. Data Visualization: Power BI, Tableau, Apache Superset
-d. Programming & Querying: SQL, Python (currently learning)
+- Data Analysis: Microsoft Excel, STATA
+- Data Processing: Power Query, Power Pivot, PivotTables, VLOOKUP/XLOOKUP
+- Data Visualization: Power BI, Tableau, Apache Superset
+- Programming & Querying: SQL, Python (currently learning)
 
-📂 Projects
+## 📂 Projects
 I'm building a portfolio of practical projects focused on data analysis, SQL, and dashboard development.
-a. SQL Data Analysis — Exploring datasets, writing queries, and answering analytical questions.
-b. Power BI Dashboard — Creating interactive visualizations and monitoring key performance indicators.
-c. Data Cleaning & Exploration — Preparing datasets, checking data quality, and identifying trends and anomalies.
+- SQL Data Analysis — Exploring datasets, writing queries, and answering analytical questions.
+- Power BI Dashboard — Creating interactive visualizations and monitoring key performance indicators.
+- Data Cleaning & Exploration — Preparing datasets, checking data quality, and identifying trends and anomalies.
 
 Project repositories will be added as projects are completed.
 
-🎓 Education & Certification
+## 🎓 Education & Certification
 Bachelor of Science in Nutrition and Dietetics — Polytechnic University of the Philippines, Cum Laude
 Registered Nutritionist-Dietitian (RND) — Philippines
 
-🤝 Connect With Me
-GitHub: https://github.com/Janinayy-stack
-LinkedIn: https://www.linkedin.com/in/janine-deliso-355052193/?isSelfProfile=true
+## 🤝 Connect With Me
+- **GitHub:** [Janinayy-stack](https://github.com/Janinayy-stack)
+- **LinkedIn:** [Janine Deliso](https://www.linkedin.com/in/janine-deliso-355052193/)
