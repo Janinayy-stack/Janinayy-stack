@@ -19,7 +19,7 @@ I'm building a portfolio of practical projects focused on data analysis, SQL, an
 - Power BI Dashboard — Creating interactive visualizations and monitoring key performance indicators.
 - Data Cleaning & Exploration — Preparing datasets, checking data quality, and identifying trends and anomalies.
 
-Project repositories will be added as projects are completed here
+Project repositories will be added as projects are completed here: [projects](https://github.com/Janinayy-stack/data-analytics-portfolio/tree/main#python)
 
 ## 🎓 Education & Certification
 Bachelor of Science in Nutrition and Dietetics — Polytechnic University of the Philippines, Cum Laude
