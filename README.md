@@ -1,7 +1,6 @@
 ## Hi, I'm Janine Deliso!👋
 
-<!--
-Aspiring Data Analyst | SQL • Power BI • Excel
+## Aspiring Data Analyst | SQL • Power BI • Excel
 
 I'm passionate about transforming raw data into meaningful insights that support data-driven decision-making. With a background in data management, statistical analysis, and reporting, I'm building on my analytical skills while expanding my knowledge of SQL, Power BI, and business intelligence.
 
@@ -29,4 +28,3 @@ Registered Nutritionist-Dietitian (RND) — Philippines
 🤝 Connect With Me
 GitHub: https://github.com/Janinayy-stack
 LinkedIn: https://www.linkedin.com/in/janine-deliso-355052193/?isSelfProfile=true
--->
