@@ -26,5 +26,4 @@ Bachelor of Science in Nutrition and Dietetics — Polytechnic University of the
 Registered Nutritionist-Dietitian (RND) — Philippines
 
 ## 🤝 Connect With Me
-- **GitHub:** [Janinayy-stack](https://github.com/Janinayy-stack)
 - **LinkedIn:** [Janine Deliso](https://www.linkedin.com/in/janine-deliso-355052193/)
