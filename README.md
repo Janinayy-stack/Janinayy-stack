@@ -22,8 +22,9 @@ I'm building a portfolio of practical projects focused on data analysis, SQL, an
 Project repositories will be added as projects are completed here: [projects](https://github.com/Janinayy-stack/data-analytics-portfolio/tree/main#python)
 
 ## 🎓 Education & Certification
-Bachelor of Science in Nutrition and Dietetics — Polytechnic University of the Philippines, Cum Laude
-Registered Nutritionist-Dietitian (RND) — Philippines
+- Bachelor of Science in Nutrition and Dietetics
+- Polytechnic University of the Philippines, Cum Laude
+- Registered Nutritionist-Dietitian (RND) — Philippines
 
 ## 🤝 Connect With Me
 - **LinkedIn:** [Janine Deliso](https://www.linkedin.com/in/janine-deliso-355052193/)
