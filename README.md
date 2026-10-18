@@ -11,7 +11,7 @@ I'm currently working on hands-on projects to strengthen my technical skills, ex
 - Data Analysis: Microsoft Excel, STATA
 - Data Processing: Power Query, Power Pivot, PivotTables, VLOOKUP/XLOOKUP
 - Data Visualization: Power BI, Tableau, Apache Superset
-- Programming & Querying: SQL, Python (currently learning)
+- Programming & Querying: SQL, Python, R (currently learning)
 
 ## 📂 Projects
 I'm building a portfolio of practical projects focused on data analysis, SQL, and dashboard development.
