@@ -6,18 +6,20 @@ I'm passionate about transforming raw data into meaningful insights that support
 
 I'm currently working on hands-on projects to strengthen my technical skills, explore real-world datasets, and showcase my approach to data cleaning, analysis, and visualization.
 
+## 🔭 Area of Focus
+- Data Cleaning & Data Quality — Identifying missing values, duplicates, inconsistent formats, and data-quality issues.
+- Data Wrangling & Transformation — Filtering, joining, reshaping, and transforming datasets into useful formats.
+- ETL Fundamentals — Practicing data extraction, transformation, and loading workflows.
+- Exploratory Data Analysis (EDA) — Using descriptive statistics, aggregation, and visualization to explore patterns, trends, and anomalies.
+- Data Visualization & Business Intelligence — Creating Python visualizations and Power BI dashboards to communicate results.
+- Statistical Analysis — Developing my understanding of statistical methods and how to apply them to practical data questions.
+
 ## 🛠️ Tools & Technologies
 
 - Data Analysis: Microsoft Excel, STATA
 - Data Processing: Power Query, Power Pivot, PivotTables, VLOOKUP/XLOOKUP
 - Data Visualization: Power BI, Tableau, Apache Superset
 - Programming & Querying: SQL, Python, R (currently learning)
-
-## 📂 Projects
-I'm building a portfolio of practical projects focused on data analysis, SQL, and dashboard development.
-- SQL Data Analysis — Exploring datasets, writing queries, and answering analytical questions.
-- Power BI Dashboard — Creating interactive visualizations and monitoring key performance indicators.
-- Data Cleaning & Exploration — Preparing datasets, checking data quality, and identifying trends and anomalies.
 
 Project repositories will be added as projects are completed here: [projects](https://github.com/Janinayy-stack/data-analytics-portfolio/tree/main#python)
 
