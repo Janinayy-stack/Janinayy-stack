@@ -30,6 +30,6 @@ Project repositories will be added as projects are completed here: [projects](ht
 ## 🤝 Connect With Me
 - **LinkedIn:** [Janine Deliso](https://www.linkedin.com/in/janine-deliso-355052193/)
 
-## ## 🙏 Acknowledgment
+## 🙏 Acknowledgment
 
 The layout and presentation of this portfolio project were inspired by [katiehuangx](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/tree/main). The dataset, data cleaning, analysis, and findings presented in this project are specific to my work.
