@@ -1,6 +1,6 @@
 # Hi, I'm Janine Deliso!👋
 
-## Aspiring Data Analyst | SQL • Power BI • Excel
+## Aspiring Data Analyst | SQL • Python • R • Python • Power BI and Tableau
 
 I'm passionate about transforming raw data into meaningful insights that support data-driven decision-making. With a background in data management, statistical analysis, and reporting, I'm building on my analytical skills while expanding my knowledge of SQL, Power BI, and business intelligence.
 
